@@ -1,8 +1,6 @@
 # DSA-Practice
-# Hi, I'm Md Shahbaz 👋
-
-- 🎓 B.Tech Student | Computer Science
-- 💻 Aspiring Backend Developer — Java, Spring Boot
-- 🧠 Learning: Data Structures & Algorithms
-- 📫 Email: mdshahbazimam02@gmail.com
--  LinkedIn: https://linkedin.com/in/shahbaz2425
+Purpose: Store solved problems, notes and solutions.
+Structure:
+- SolveMeFirst: First solved problem from HackerRank
+- Arrays: ...
+Contact: mdshahbazimam02@gmail.com

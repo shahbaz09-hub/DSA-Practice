@@ -1,14 +1,24 @@
+import java.io.*;
 import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
-public class SolveMeFirst {
+public class Solution {
+
     static int solveMeFirst(int a, int b) {
+        // Hint: Type return a+b; below
         return a + b;
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        System.out.println(solveMeFirst(a, b));
+        Scanner in = new Scanner(System.in);
+        int a;
+        a = in.nextInt();
+        int b;
+        b = in.nextInt();
+        int sum;
+        sum = solveMeFirst(a, b);
+        System.out.println(sum);
     }
 }
